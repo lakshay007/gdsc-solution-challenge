@@ -1,3 +1,3 @@
-Fork and Clone the repo  
-user NPM i to install the dependencies  
-user npm run dev to run the backend and the frontend  
+1. Fork and Clone the repo  
+2. use ```npm i``` to install the dependencies    
+3. use ```npm run dev``` to run the backend and the frontend    
