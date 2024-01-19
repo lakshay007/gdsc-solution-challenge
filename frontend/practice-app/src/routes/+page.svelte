@@ -126,30 +126,30 @@ let handlelogin = async()=>{
         <section class="section-cards-2">
             <section class="section-card-2">
                     <div class="set sa-set">
-                        <h3>Sayali Sachin</h3>
+                        <h3>Ayden Verma</h3>
                         <h4>Legal Personnel</h4>
                     </div>
                     <p>The Charter has changed the way<br> of legal world. It has made<br>life so easy.</p>
-                    <button id="sa-button">View Sayali's Portfolio</button>
+                    <button id="sa-button">View Ayden's Portfolio</button>
                 
                     
             </section>
             <section class="section-card-2">
                     <div class="set mh-set">
-                        <h3>Lakshay Chauhan</h3>
+                        <h3>Myra Gupta</h3>
                         <h4>Lawyer @ ABC</h4>
                     </div>
                     <p>The Charter has changed the way<br> of legal world. It has made<br>life so easy.</p>
-                    <button class="sectionbutton">View Lakshay's Portfolio</button>
+                    <button class="sectionbutton">View Myra's Portfolio</button>
               
             </section>
             <section class="section-card-2">
                     <div class="set jd-set">
-                        <h3>Anusha V</h3>
+                        <h3>Reyansh Jain</h3>
                         <h4>Chairperson @ XYZ</h4>
                     </div>
                     <p>The Charter has changed the way<br> of legal world. It has made<br>life so easy.</p>
-                    <button class="sectionbutton">View Anusha's Portfolio</button>
+                    <button class="sectionbutton">View Reyansh's Portfolio</button>
                 
             </section>
         </section>
@@ -172,9 +172,9 @@ let handlelogin = async()=>{
             </nav>
             <nav class="footer-nav">
                 <h2>Portfolios</h2>
-                <a href="#">Sayali Sachin</a>
-                <a href="#">Lakshay Chauhan</a>
-                <a href="#">Anusha V </a>
+                <a href="#">Ayden Verma</a>
+                <a href="#">Myra Gupta</a>
+                <a href="#">Reyansh Jain </a>
             </nav>
         </footer>
 </main>
