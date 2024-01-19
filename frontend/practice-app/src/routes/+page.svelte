@@ -69,7 +69,7 @@ let handlelogin = async()=>{
   
     <div class="background">
         <header>
-            <span class="logo">GenHub</span>
+            <span class="logo">The Charter</span>
             <nav class="nav-all">
                 <nav class="nav-1">
                     <a href="#" class="nav-link">ProBono Services </a>
@@ -84,9 +84,9 @@ let handlelogin = async()=>{
         </header>
         <article>
             <div class="article-1">
-                <h1>Presenting GenHub,</h1>
+                <h1>Presenting The Charter,</h1>
                 <h2>A pro bono legal service committed to bridging the gap between <br>budding lawyers and individuals facing legal challenges.</h2>
-                <p>GenHub envisions a society where legal assistance is not determined by financial means <br>but is a fundamental right accessible to all</p>
+                <p>The Charter envisions a society where legal assistance is not determined by financial means <br>but is a fundamental right accessible to all</p>
                 <div class="button-section">
                     <a href="#"><button id="button-2" class="button">Browse Hub</button></a>
                 </div>
@@ -102,7 +102,7 @@ let handlelogin = async()=>{
         </article>
     </div>
     <div class="title">
-        <h3>Why GenHub?</h3>
+        <h3>Why The Charter?</h3>
         <h2>A good cause needs a better<br> lawyer.</h2>
     </div>
     <section class="good-portfolio">
@@ -129,7 +129,7 @@ let handlelogin = async()=>{
                         <h3>Sayali Sachin</h3>
                         <h4>Legal Personnel</h4>
                     </div>
-                    <p>GenHub has changed the way<br> of legal world. It has made<br>life so easy.</p>
+                    <p>The Charter has changed the way<br> of legal world. It has made<br>life so easy.</p>
                     <button id="sa-button">View Sayali's Portfolio</button>
                 
                     
@@ -139,29 +139,28 @@ let handlelogin = async()=>{
                         <h3>Lakshay Chauhan</h3>
                         <h4>Lawyer @ ABC</h4>
                     </div>
-                    <p>GenHub has changed the way<br> of legal world. It has made<br>life so easy.</p>
+                    <p>The Charter has changed the way<br> of legal world. It has made<br>life so easy.</p>
                     <button class="sectionbutton">View Lakshay's Portfolio</button>
               
             </section>
             <section class="section-card-2">
                     <div class="set jd-set">
-                        <h3>Anusha v</h3>
+                        <h3>Anusha V</h3>
                         <h4>Chairperson @ XYZ</h4>
                     </div>
-                    <p>GenHub has changed the way<br> of legal world. It has made<br>life so easy.</p>
+                    <p>The Charter has changed the way<br> of legal world. It has made<br>life so easy.</p>
                     <button class="sectionbutton">View Anusha's Portfolio</button>
                 
             </section>
         </section>
         <footer>
             <div class="footer-text">
-                <span class="logo">GenHub</span>
-                <p>With GenHub,<br>be the catalyst of your change<br>and embody justice in its essence.</p>
+                <span class="logo">The Charter</span>
+                <p>With us,<br>be the catalyst of your change<br>and embody justice in its essence.</p>
             </div>
             <nav class="footer-nav">
                 <h2>Sitemap</h2>
                 <a href="#">Homepage</a>
-                <a href="#">Pricing</a>
                 <a href="#">Testimonials</a>
                 <a href="#">Features</a>
             </nav>
