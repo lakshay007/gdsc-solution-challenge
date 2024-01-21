@@ -77,10 +77,19 @@ let handlelogin = async()=>{
                     <a href="#" class="nav-link">Community </a>
                 </nav>
                 <nav class="nav-2">
-                    <a href="#" class="nav-link">Sign In</a>
-                    <button id="button-1" class="button"><a href="#">Sign Up</a></button>
+                        <a href="#" class="nav-link">Sign In</a>
+                        <div class="dropdown">
+                            
+                            <button id="button-1" class="button"><a href="#">Sign Up</a></button>
+                            <div class="dropdown-content">
+                                <a>As Lawyer</a>
+                                <a>As User</a>
+                            </div>
+
+                        </div>
+
+                    </nav>
                 </nav>
-            </nav>
         </header>
         <article>
             <div class="article-1">
