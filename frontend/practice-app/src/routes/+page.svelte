@@ -80,9 +80,9 @@ let handlelogin = async()=>{
                         <a href="#" class="nav-link">Sign In</a>
                         <div class="dropdown">
                             
-                            <button id="button-1" class="button"><a href="#">Sign Up</a></button>
+                            <button id="button-1" class="button" tabindex="0"><a href="#">Sign Up</a></button>
                             <div class="dropdown-content">
-                                <a>As Lawyer</a>
+                                <a href="/lawyerlogin" >As Lawyer</a>
                                 <a>As User</a>
                             </div>
 
