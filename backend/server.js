@@ -2,7 +2,8 @@ const express = require('express');
 const app = express();
 const mongoose = require("mongoose");
 const cors = require('cors');
-const UserData = require('./userSchema')
+const UserData = require('./userSchema');
+const LawyerData = require('./lawyerSchema');
 app.use(express.json());
 app.use(cors());
 app.get('/',(req,res)=>{
@@ -27,6 +28,16 @@ app.get('/UserData/:id', async(req,res)=>{
     const data = await UserData.findOne({username: req.params.id})
     res.status(200).json(data);
 })
+app.post('/LawyerData', async(req,res)=>{
+    console.log(res.body);
+    const userdata = await LawyerData.create(req.body);
+    res.status(200).json(userdata);
+})
+
+
+
+
+
 
 
 

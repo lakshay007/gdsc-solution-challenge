@@ -83,7 +83,7 @@
                                <button id="button-1" class="button" tabindex="0"><a href="#">Sign Up</a></button>
                                <div class="dropdown-content">
                                    <a href="/lawyerlogin" >As Lawyer</a>
-                                   <a>As User</a>
+                                   <a href="/userlogin" >As User</a>
                                </div>
    
                            </div>

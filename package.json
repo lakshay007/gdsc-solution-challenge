@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@beyonk/svelte-social-auth": "^3.0.0"
+  }
+}
